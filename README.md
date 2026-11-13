@@ -3,7 +3,7 @@
 <br>
 
 **VITON13** is a private ecosystem with a studio at its core — websites, web apps, 3D and AI.
-This is its open code: **24 repositories** you can read, study and run.
+This is its open code: **22 repositories** you can read, study and run.
 
 [viton13.com](https://viton13.com)  ·  [Portfolio](https://tarasovvitalii.com)  ·  [Instagram](https://instagram.com/viton13company)  ·  [Threads](https://www.threads.net/@viton13company)
 
@@ -60,7 +60,6 @@ This is its open code: **24 repositories** you can read, study and run.
 
 <sub>
 <a href="https://github.com/viton13com/vitapp"><b>VITAPP</b></a> — desktop OS of the ecosystem &nbsp;·&nbsp;
-<a href="https://github.com/viton13com/viton-id"><b>VITON ID</b></a> — single sign-on &nbsp;·&nbsp;
 <a href="https://github.com/viton13com/ladder-router"><b>ladder-router</b></a> — cost-aware LLM routing &nbsp;·&nbsp;
 <a href="https://github.com/viton13com/ai-clinic-receptionist"><b>AI receptionist</b></a> — clinic front desk demo &nbsp;·&nbsp;
 <a href="https://github.com/viton13com/american-english-anki"><b>English Anki</b></a> — 8,755 phrases, free
