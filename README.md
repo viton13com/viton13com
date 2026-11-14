@@ -3,7 +3,7 @@
 <br>
 
 **VITON13** is a private ecosystem with a studio at its core — websites, web apps, 3D and AI.
-This is its open code: **33 repositories** you can read, study and run.
+This is its open code: **34 repositories** you can read, study and run.
 
 [viton13.com](https://viton13.com)  ·  [Portfolio](https://tarasovvitalii.com)  ·  [Instagram](https://instagram.com/viton13company)  ·  [Threads](https://www.threads.net/@viton13company)
 
@@ -32,6 +32,7 @@ This is its open code: **33 repositories** you can read, study and run.
 | [**metka**](https://github.com/viton13com/metka) | QR codes that actually scan — 9 content types, custom styles, logo safety meter, batch ZIP · [live](https://viton13com.github.io/metka/) |
 | [**uzor**](https://github.com/viton13com/uzor) | Regular expressions you can see — railroad diagram, plain-language explanation, backtracking guard · [live](https://viton13com.github.io/uzor/) |
 | [**uzhat**](https://github.com/viton13com/uzhat) | Image compressor in the browser — WebP, AVIF, PNG-8, before/after zoom, fit into N KB, strips GPS · [live](https://viton13com.github.io/uzhat/) |
+| [**doklad**](https://github.com/viton13com/doklad) | Presentations from plain text — Markdown in, slides out, presenter view, PDF and single-file HTML · [live](https://viton13com.github.io/doklad/) |
 <!-- tools:end -->
 
 <br>
