@@ -3,7 +3,7 @@
 <br>
 
 **VITON13** is a private ecosystem with a studio at its core — websites, web apps, 3D and AI.
-This is its open code: **23 repositories** you can read, study and run.
+This is its open code: **28 repositories** you can read, study and run.
 
 [viton13.com](https://viton13.com)  ·  [Portfolio](https://tarasovvitalii.com)  ·  [Instagram](https://instagram.com/viton13company)  ·  [Threads](https://www.threads.net/@viton13company)
 
@@ -14,6 +14,20 @@ This is its open code: **23 repositories** you can read, study and run.
 <a href="https://github.com/viton13com/code-reels"><img src="https://raw.githubusercontent.com/viton13com/code-reels/main/assets/og.jpg" alt="code-reels — Reels, Shorts and TikToks written in code, 141 templates, MIT" width="100%"></a>
 
 <sub><b><a href="https://github.com/viton13com/code-reels">code-reels</a></b> — Reels, Shorts and TikToks written in code. 141 templates, 60 fps with motion blur, synthesized sound. MIT · <a href="https://viton13com.github.io/code-reels/">live gallery</a></sub>
+
+<br><br>
+
+### Tools
+
+<!-- tools:start -->
+| | |
+|---|---|
+| [**obereg**](https://github.com/viton13com/obereg) | Android app that shields elderly parents from phone and messenger scams |
+| [**dozor**](https://github.com/viton13com/dozor) | Website uptime monitoring in one Python file, status page on GitHub Pages |
+| [**gonets**](https://github.com/viton13com/gonets) | Push notifications to Telegram with one `curl` line |
+| [**list**](https://github.com/viton13com/list) | Private PDF tools in the browser — nothing is uploaded |
+| [**chertezh**](https://github.com/viton13com/chertezh) | Apartment layout planner in real centimetres |
+<!-- tools:end -->
 
 <br>
 
