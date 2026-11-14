@@ -3,7 +3,7 @@
 <br>
 
 **VITON13** is a private ecosystem with a studio at its core — websites, web apps, 3D and AI.
-This is its open code: **31 repositories** you can read, study and run.
+This is its open code: **32 repositories** you can read, study and run.
 
 [viton13.com](https://viton13.com)  ·  [Portfolio](https://tarasovvitalii.com)  ·  [Instagram](https://instagram.com/viton13company)  ·  [Threads](https://www.threads.net/@viton13company)
 
@@ -30,6 +30,7 @@ This is its open code: **31 repositories** you can read, study and run.
 | [**tsvet**](https://github.com/viton13com/tsvet) | One brand color in, a whole OKLCH UI palette out — contrast, Tailwind, tokens · [live](https://viton13com.github.io/tsvet/) |
 | [**za-vecher**](https://github.com/viton13com/za-vecher) | Build your own X in one evening, in Russian: 9 Python projects with step tests |
 | [**metka**](https://github.com/viton13com/metka) | QR codes that actually scan — 9 content types, custom styles, logo safety meter, batch ZIP · [live](https://viton13com.github.io/metka/) |
+| [**uzor**](https://github.com/viton13com/uzor) | Regular expressions you can see — railroad diagram, plain-language explanation, backtracking guard · [live](https://viton13com.github.io/uzor/) |
 <!-- tools:end -->
 
 <br>
