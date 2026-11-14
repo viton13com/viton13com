@@ -3,7 +3,7 @@
 <br>
 
 **VITON13** is a private ecosystem with a studio at its core — websites, web apps, 3D and AI.
-This is its open code: **39 repositories** you can read, study and run.
+This is its open code: **40 repositories** you can read, study and run.
 
 [viton13.com](https://viton13.com)  ·  [Portfolio](https://tarasovvitalii.com)  ·  [Instagram](https://instagram.com/viton13company)  ·  [Threads](https://www.threads.net/@viton13company)
 
@@ -38,6 +38,7 @@ This is its open code: **39 repositories** you can read, study and run.
 | [**sverka**](https://github.com/viton13com/sverka) | Compare two versions of a text, contract or code — word-level highlights, moved blocks, merge, patches · [live](https://viton13com.github.io/sverka/) |
 | [**grafik**](https://github.com/viton13com/grafik) | Cron schedules in plain words — next runs in your time zone, year calendar, builder, systemd / GitHub Actions / Kubernetes export · [live](https://viton13com.github.io/grafik/) |
 | [**nabor**](https://github.com/viton13com/nabor) | Touch-typing trainer and speed test for Russian and English layouts — lessons, finger-coloured keyboard, weak-key practice, challenge links · [live](https://viton13com.github.io/nabor/) |
+| [**vetka**](https://github.com/viton13com/vetka) | Mind maps you build from the keyboard — three layouts, drag and drop, tasks with progress, live Markdown outline, PNG / SVG / OPML export, share links · [live](https://viton13com.github.io/vetka/) |
 <!-- tools:end -->
 
 <br>
