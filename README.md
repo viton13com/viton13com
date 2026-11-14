@@ -3,7 +3,7 @@
 <br>
 
 **VITON13** is a private ecosystem with a studio at its core — websites, web apps, 3D and AI.
-This is its open code: **41 repositories** you can read, study and run.
+This is its open code: **42 repositories** you can read, study and run.
 
 [viton13.com](https://viton13.com)  ·  [Portfolio](https://tarasovvitalii.com)  ·  [Instagram](https://instagram.com/viton13company)  ·  [Threads](https://www.threads.net/@viton13company)
 
@@ -40,6 +40,7 @@ This is its open code: **41 repositories** you can read, study and run.
 | [**nabor**](https://github.com/viton13com/nabor) | Touch-typing trainer and speed test for Russian and English layouts — lessons, finger-coloured keyboard, weak-key practice, challenge links · [live](https://viton13com.github.io/nabor/) |
 | [**vetka**](https://github.com/viton13com/vetka) | Mind maps you build from the keyboard — three layouts, drag and drop, tasks with progress, live Markdown outline, PNG / SVG / OPML export, share links · [live](https://viton13com.github.io/vetka/) |
 | [**doska**](https://github.com/viton13com/doska) | Endless whiteboard — shapes, arrows that stay attached, pen, sticky notes, images, align and layers, PNG / SVG export, the whole board in a share link · [live](https://viton13com.github.io/doska/) |
+| [**kletka**](https://github.com/viton13com/kletka) | Pixel art and animation editor — clean-stroke pencil, fill, dithering, mirrors, layers, frames with onion skin, PNG / sprite sheet / GIF / SVG export, the drawing in a share link · [live](https://viton13com.github.io/kletka/) |
 <!-- tools:end -->
 
 <br>
