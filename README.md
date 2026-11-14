@@ -3,7 +3,7 @@
 <br>
 
 **VITON13** is a private ecosystem with a studio at its core — websites, web apps, 3D and AI.
-This is its open code: **28 repositories** you can read, study and run.
+This is its open code: **29 repositories** you can read, study and run.
 
 [viton13.com](https://viton13.com)  ·  [Portfolio](https://tarasovvitalii.com)  ·  [Instagram](https://instagram.com/viton13company)  ·  [Threads](https://www.threads.net/@viton13company)
 
@@ -27,6 +27,7 @@ This is its open code: **28 repositories** you can read, study and run.
 | [**gonets**](https://github.com/viton13com/gonets) | Push notifications to Telegram with one `curl` line |
 | [**list**](https://github.com/viton13com/list) | Private PDF tools in the browser — nothing is uploaded |
 | [**chertezh**](https://github.com/viton13com/chertezh) | Apartment layout planner in real centimetres |
+| [**tsvet**](https://github.com/viton13com/tsvet) | One brand color in, a whole OKLCH UI palette out — contrast, Tailwind, tokens · [live](https://viton13com.github.io/tsvet/) |
 <!-- tools:end -->
 
 <br>
