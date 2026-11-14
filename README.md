@@ -3,7 +3,7 @@
 <br>
 
 **VITON13** is a private ecosystem with a studio at its core — websites, web apps, 3D and AI.
-This is its open code: **36 repositories** you can read, study and run.
+This is its open code: **37 repositories** you can read, study and run.
 
 [viton13.com](https://viton13.com)  ·  [Portfolio](https://tarasovvitalii.com)  ·  [Instagram](https://instagram.com/viton13company)  ·  [Threads](https://www.threads.net/@viton13company)
 
@@ -35,6 +35,7 @@ This is its open code: **36 repositories** you can read, study and run.
 | [**doklad**](https://github.com/viton13com/doklad) | Presentations from plain text — Markdown in, slides out, presenter view, PDF and single-file HTML · [live](https://viton13com.github.io/doklad/) |
 | [**kadr**](https://github.com/viton13com/kadr) | Beautiful screenshots and code images — backgrounds, frames, arrows, numbers and pixel redaction · [live](https://viton13com.github.io/kadr/) |
 | [**razbor**](https://github.com/viton13com/razbor) | JSON you can read and repair — fast tree, clear errors, one-click fix, JSONPath, table, types, YAML · [live](https://viton13com.github.io/razbor/) |
+| [**sverka**](https://github.com/viton13com/sverka) | Compare two versions of a text, contract or code — word-level highlights, moved blocks, merge, patches · [live](https://viton13com.github.io/sverka/) |
 <!-- tools:end -->
 
 <br>
