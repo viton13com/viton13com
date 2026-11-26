@@ -8,6 +8,7 @@
 
 | Project | VITON¹³ contribution |
 | --- | --- |
+| [p-limit](https://github.com/viton13com/p-limit) | Wait until queued and running tasks finish with `onIdle()`. [Original project](https://github.com/sindresorhus/p-limit) · MIT |
 | [Text to Lottie](https://github.com/viton13com/lottie) | Preserve text edits in nested animation compositions. [Original project](https://github.com/diffusionstudio/lottie) · MIT |
 | [slugify](https://github.com/viton13com/slugify) | Keep existing URLs reserved when generating new slugs. [Original project](https://github.com/sindresorhus/slugify) · MIT |
 
