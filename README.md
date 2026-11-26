@@ -1,15 +1,16 @@
-<a href="https://viton13.com"><img src="assets/banner.png" alt="VITON13" width="100%"></a>
+<a href="https://viton13.com"><img src="assets/viton13-banner.webp" alt="VITON¹³" width="100%"></a>
 
-<br>
-
-**VITON13** is a private ecosystem with a studio at its core — websites, web apps, 3D and AI.
-This is its open code: **43 repositories** you can read, study and run.
+**VITON¹³** builds websites, web apps, 3D experiences and AI tools. Browse studio projects and contributions to open-source software below.
 
 [viton13.com](https://viton13.com)  ·  [Portfolio](https://tarasovvitalii.com)  ·  [Instagram](https://instagram.com/viton13company)  ·  [Threads](https://www.threads.net/@viton13company)
 
-<br>
+### Open-source forks
 
-### Open source
+| Project | VITON¹³ contribution |
+| --- | --- |
+| [slugify](https://github.com/viton13com/slugify) | Keep existing URLs reserved when generating new slugs. [Original project](https://github.com/sindresorhus/slugify) · MIT |
+
+### Featured project
 
 <a href="https://github.com/viton13com/code-reels"><img src="https://raw.githubusercontent.com/viton13com/code-reels/main/assets/og.jpg" alt="code-reels — Reels, Shorts and TikToks written in code, 141 templates, MIT" width="100%"></a>
 
@@ -106,6 +107,6 @@ This is its open code: **43 repositories** you can read, study and run.
 
 ---
 
-<sub>Source-available, not open source. Free to read, learn from and use in personal, study and non-profit work under <a href="https://polyformproject.org/licenses/noncommercial/1.0.0">PolyForm Noncommercial 1.0.0</a>, unless a repository says otherwise. Commercial use by license — <a href="mailto:info@viton13.com">info@viton13.com</a>. VITON13 and VITO are trademarks.</sub>
+<sub>Each project lists its license in its repository. PolyForm Noncommercial projects are available for personal, educational and non-profit use. For commercial licensing, contact <a href="mailto:info@viton13.com">info@viton13.com</a>. VITON13 and VITO are trademarks.</sub>
 
 <sub>© 2025–2026 VITON13</sub>
